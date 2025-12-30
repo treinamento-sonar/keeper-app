@@ -21,5 +21,5 @@ jobs:
       with:
         args: >
           -Dsonar.verbose=true
-          "-Dsonar.projectKey=f5591ea897ac62332af7397236789b4c293c06e9"
+          "-Dsonar.projectKey=treinamento-sonar_keeper-app"
           "-Dsonar.organization=treinamento-sonar"
